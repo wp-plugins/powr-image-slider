@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Image Slider
     Plugin URI: http://www.powr.io
-    Description: The easy way to create a stunning image slider Add the widget to your theme, or create an Image Slider on ANY page or post by using the shortcode [powr-image-slider]. Then, simply visit your site and click the settings icon to customize your Image Slider right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Create a beautiful slider for images and photos! Add the widget to your theme, or create an Image Slider on ANY page or post by using the shortcode [powr-image-slider]. Then, simply visit your site and click the settings icon to customize your Image Slider right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io

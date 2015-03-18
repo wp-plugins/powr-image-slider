@@ -23,7 +23,7 @@ First, download, install, and activate POWr Image Slider. Then drop the widget a
 = <a href='http://www.powr.io/tutorials/how-to-add-image-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Showcase unlimited photos and images in one seamless slider!
+* Showcase photos and images in a seamless slider!
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
 * Create and add custom thumbnails previews with no extra software.
 * Easy to use design tools let you customize animations, captions, sizing, and spacing.
@@ -38,6 +38,7 @@ First, download, install, and activate POWr Image Slider. Then drop the widget a
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 
 == Installation ==

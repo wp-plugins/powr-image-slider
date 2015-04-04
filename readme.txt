@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A beautiful, responsive slider for images and photos!
 
 == Description ==
-A beautiful, responsive slider for images and photos!
+[youtube https://youtu.be/ErGr3xfCAeQ] A beautiful, responsive slider for images and photos!
 <br>
 <br>
 POWr Image Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.

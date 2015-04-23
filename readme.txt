@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: image slider, image slideshow, image showcase, multislider, accordion slider, carousel, gallery slider, horizontal slider, photo slider, responsive slider, simple slider, slideshow, vertical slider, video slider, youtube slider, vimeo slider, best slider, carousel slider, content slider, content slideshow, flex slider, javascript slider, javascript slideshow, jquery slider, jquery slideshow, banner slider, image slider plugin, image slider widget, mobile responsive, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, product slideshow, art gallery, upload picture, photo upload, file upload, designer tools, graphic artist, promotions, events, rotating banner
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ First, download, install, and activate POWr Image Slider. Then drop the widget a
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.

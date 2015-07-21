@@ -2,7 +2,7 @@
 ===POWr Image Slider===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: image slider, image slideshow, image showcase, multislider, accordion slider, carousel, gallery slider, horizontal slider, photo slider, responsive slider, simple slider, slideshow, vertical slider, video slider, youtube slider, vimeo slider, best slider, carousel slider, content slider, content slideshow, flex slider, javascript slider, javascript slideshow, jquery slider, jquery slideshow, banner slider, image slider plugin, image slider widget, mobile responsive, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, product slideshow, art gallery, upload picture, photo upload, file upload, designer tools, graphic artist, promotions, events, rotating banner
+Tags: image slider, image slideshow, image showcase, multislider, accordion slider, carousel, gallery slider, horizontal slider, photo slider, responsive slider, simple slider, slideshow, vertical slider, video slider, youtube slider, vimeo slider, best slider, carousel slider, content slider, content slideshow, flex slider, javascript slider, javascript slideshow, jquery slider, jquery slideshow, banner slider, image slider plugin, image slider widget, mobile responsive, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, paypal, payments, donations, pay, buy, sell, recurring payment, subscription, drag and drop, WYSIWYG, mobile responsive, product slideshow, art gallery, upload picture, photo upload, file upload, designer tools, graphic artist, promotions, events, rotating banner
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
@@ -24,18 +24,21 @@ First, download, install, and activate POWr Image Slider. Then drop the widget a
 <br>
 = Free Features =
 * Showcase photos and images in a seamless slider!
-* Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
+* Use expert templates or customize from scratch. 
+* Adjust fonts, colors, borders, backgrounds, and more.
+* Accept payments, donations, and subscriptions through PayPal.
 * Create and add custom thumbnails previews with no extra software.
 * Easy to use design tools let you customize animations, captions, sizing, and spacing.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device
 <br>
 
-= Upgrade ($2.99)/mo and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.
-* Advanced Video Options - set play and autoplay options for video slides.
-* Better Buttons - adjustable sizing for scroll buttons.
+* Set display time for slides. 
+* Enable auto-play for videos.
+* Disable 'right click' to protect images.
+* Adjust size of scroll buttons.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
